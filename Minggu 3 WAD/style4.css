@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+    background-image: url(https://dansmedia.net/wp-content/uploads/2018/11/Foto-Utama-750x375.jpg);
+    background-repeat : no-repeat;
+    background-position: top;
+    background-size: cover;
+
+}
+
+h1{
+    font-family: 'Times New Roman, Times, serif';
+    color: darkblue;
+}
